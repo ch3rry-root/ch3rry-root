@@ -33,11 +33,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ch3rry-root&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3rry-root&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ch3rry-root&theme=default&no-frame=false&no-bg=true&margin-w=4)
+## 🧪 Code Composition
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3rry-root&layout=compact&theme=cobalt)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ch3rry-root&limit=5&theme=dark&combine_all_yearly_contributions=true)
