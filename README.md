@@ -8,9 +8,8 @@
 
 # 💫 About Me:
 - 🖥️ Homelab enjoyer: ProxmoxVE, VMware, VLANs, firewalls  
-- 🌐 Networking with Cisco, Aruba
-- 👨‍💻 I code for hmm idk..
-- 🧪 I build "educational software"  
+- 🌐 Networking with Cisco, Aruba and Mikroik
+- 🧪 I build educational software  
 - 🔐 Interested in systems and cybersecurity
 
 ## 🌐 Socials:
