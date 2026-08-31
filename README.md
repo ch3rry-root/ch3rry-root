@@ -6,10 +6,10 @@
 
 ## Hi there I'm ch3rry aka IoT
 
-# 💫 About Me:
+# About Me:
 - 🖥️ Homelab enjoyer: ProxmoxVE, VMware, VLANs, firewalls  
 - 🌐 Networking with Cisco, Aruba and Mikroik
-- 🧪 I build educational software  
+- 🧪 I hate bloat
 - 🔐 Interested in systems and cybersecurity
 
 ## 🌐 Socials:
